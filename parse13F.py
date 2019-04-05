@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+
+"""Process SEC-EDGAR 13F **for educational purposes only. MIT License"""
+
+__author__      = "Aneesh Panoli"
+__copyright__   = "MIT License"
+
 from bs4 import BeautifulSoup as bs
 import os
 import re
