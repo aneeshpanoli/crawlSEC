@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+
+"""Process parsed 13F to csv**for educational purposes only. MIT License"""
+
+__author__      = "Aneesh Panoli"
+__copyright__   = "MIT License"
+
+
 import pandas as pd
 import os
 from institutionList import institutions
