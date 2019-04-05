@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+
+"""List of hedge funds/institution names **for educational purposes only. MIT License"""
+
+__author__      = "Aneesh Panoli"
+__copyright__   = "MIT License"
+
+
 def institutions():
     keywords = ["Natixis", "TIAA", "Deutsche", "Invesco", "Franklin", "Rowe", "AXA", "Legg", "Sumitomo"\
     , "UBS", "Affiliated", "Mitsubishi", "Insight", "BNP", "New", "Allianz", "Columbia", "AllianceBernstein"\
